@@ -1,0 +1,19 @@
+{
+	"name": "instagram",
+	"description": "Webkit Implementation of Instagram",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/johnciacua/webkit-instagram.git"
+	},
+	"main": "index.html",
+	"window": {
+		"toolbar": false,
+		"width": 300,
+		"height": 350
+	},
+	"devDependencies": {
+		"grunt": "0.4.5",
+		"grunt-node-webkit-builder": "0.1.21"
+	}
+}
+
